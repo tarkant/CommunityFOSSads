@@ -36,18 +36,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4530">
-      <stop
-         style="stop-color:#2965a8;stop-opacity:1"
-         offset="0"
-         id="stop4532" />
-      <stop
-         style="stop-color:#47a6d3;stop-opacity:1"
-         offset="1"
-         id="stop4534" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient4313">
       <stop
          style="stop-color:#ffffff;stop-opacity:1"
@@ -73,16 +61,6 @@
        r="2047.9999"
        gradientTransform="matrix(1.0051016,-0.54453539,0.4653127,0.85887265,-417.18609,383.54553)"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4530"
-       id="linearGradient4538"
-       x1="1966.9248"
-       y1="1867.6677"
-       x2="1966.9248"
-       y2="1680.1603"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.95677234,0,0,0.95677234,126.06716,-73.279085)" />
     <linearGradient
        id="linearGradient5004">
       <stop
@@ -1753,6 +1731,19 @@
        y1="-29.430071"
        x2="-954.75293"
        y2="1004.9661" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4425"
+       x="-0.022470754"
+       width="1.0449415"
+       y="-0.090470997"
+       height="1.180942">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.0072504"
+         id="feGaussianBlur4427" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1761,9 +1752,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2200.6195"
-     inkscape:cy="832.73063"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="776.02732"
+     inkscape:cy="2299.2929"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1771,9 +1762,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px" />
@@ -1947,25 +1938,33 @@
          id="tspan4441"
          sodipodi:role="line">Customisable!</tspan></text>
     <rect
-       style="opacity:1;fill:url(#linearGradient4538);fill-opacity:1;stroke:#2e70b0;stroke-width:3.82708931;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4528"
-       width="661.53973"
+       ry="12.095462"
+       y="1543.2954"
+       x="1585.0371"
        height="185.88721"
-       x="1671.9103"
+       width="748.41284"
+       id="rect4407"
+       style="opacity:0.26000001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.82708931;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4425)" />
+    <rect
+       style="opacity:1;fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:3.82708931;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4528"
+       width="748.41284"
+       height="185.88721"
+       x="1585.0371"
        y="1531.8668"
-       ry="32.803623" />
+       ry="12.095462" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1753.0686"
+       x="1643.045"
        y="1651.2373"
        id="text4540"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4542"
-         x="1753.0686"
+         x="1643.045"
          y="1651.2373"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff">Get it for Free</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff">GET IT FOR FREE</tspan></text>
     <g
        style="display:inline"
        transform="matrix(2.6296821,0,0,2.6296821,-1494.252,-767.15171)"
