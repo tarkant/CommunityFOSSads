@@ -59,7 +59,7 @@
        fx="473.33411"
        fy="891.3819"
        r="2047.9999"
-       gradientTransform="matrix(1.0051016,-0.54453539,0.4653127,0.85887265,-417.18609,383.54553)"
+       gradientTransform="matrix(1.0051016,-0.54453539,0.4653127,0.85887265,-417.18609,379.50492)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -79,8 +79,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2045.9959"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="2049.5635"
      inkscape:cy="1092.9065"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -90,9 +90,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1440"
-     inkscape:window-height="837"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:window-height="876"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -103,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,7 +118,7 @@
        width="4095.9998"
        height="2304"
        x="-1574.6658"
-       y="-260.61813"
+       y="-264.65875"
        rx="0"
        ry="0" />
     <text
@@ -187,7 +187,7 @@
          id="tspan4413"
          x="465.82999"
          y="1008.8349"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d">Compatible with most common document formats.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px">Compatible with most common document formats.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4415"
@@ -195,7 +195,7 @@
        x="462.81235"
        style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px"
          y="1310.233"
          x="462.81235"
          id="tspan4417"
@@ -211,7 +211,7 @@
          id="tspan4421"
          x="465.82999"
          y="1109.3009"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d">Got a problem? Ask the community!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px">Got a problem? Ask the community!</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4423"
@@ -219,7 +219,7 @@
        x="462.81235"
        style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px"
          y="908.36884"
          x="462.81235"
          id="tspan4425"
@@ -235,7 +235,7 @@
          id="tspan4429"
          x="466.58441"
          y="1209.767"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d">Simple and familiar user interface.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px">Simple and familiar user interface.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4431"
@@ -243,7 +243,7 @@
        x="462.81235"
        style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px"
          y="1410.6991"
          x="462.81235"
          id="tspan4433"
@@ -252,14 +252,14 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="462.81235"
-       y="1602.4393"
+       y="1608.4393"
        id="text4435"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4437"
          x="462.81235"
-         y="1602.4393"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d">No licensing costs.</tspan></text>
+         y="1608.4393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d">No licensing costs.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4439"
@@ -267,7 +267,7 @@
        x="462.81235"
        style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px"
          y="1712.0973"
          x="462.81235"
          id="tspan4441"
@@ -484,27 +484,28 @@
          sodipodi:linespacing="125%"
          id="text4540"
          y="1805.5231"
-         x="1699.7571"
+         x="1681.7571"
          style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff"
            y="1805.5231"
-           x="1699.7571"
+           x="1681.7571"
            id="tspan4542"
            sodipodi:role="line">Get it for Free</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="466.58441"
-       y="1520.3571"
+       style="font-style:normal;font-weight:normal;font-size:84.33789825px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="476.9975"
+       y="1466.3704"
        id="text4214"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96964005,1.0313105)"><tspan
          sodipodi:role="line"
          id="tspan4216"
-         x="466.58441"
-         y="1520.3571"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d">Stable and reliable.</tspan></text>
+         x="476.9975"
+         y="1466.3704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.78543091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d">Stable and reliable.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4218"
@@ -512,7 +513,7 @@
        x="462.81235"
        style="font-style:normal;font-weight:normal;font-size:81.31783295px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#4d4d4d;font-size:75px"
          y="1812.5634"
          x="462.81235"
          id="tspan4220"
